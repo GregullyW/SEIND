@@ -1,1 +1,5 @@
-Datasets used: https://drive.google.com/drive/folders/1YEciuJRRzL19RXKX5IcfmN3L0S8AYZIX?usp=drive_link
+# SEIND
+
+Datasets and GT: https://drive.google.com/file/d/14aLCwnVIdUu0styU5kdg_om72JMkIFOU/view?usp=drive_link
+
+Baselines: https://github.com/GregullyW/IND_discovery.git
